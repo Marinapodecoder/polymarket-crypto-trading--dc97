@@ -1,4 +1,4 @@
-# 
+# secure bot for Polymarket - arbitrage-detection and stop-loss-management offers the most advanced Polymarket bot, with arbitrage-detection and stop-loss-management. Ideal for
 
 
 
